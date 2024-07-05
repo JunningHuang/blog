@@ -26,3 +26,5 @@ Here are some paths you might follow to get to know more about me, my research a
 - [[Readings/index|📖 Readings]]: Notes for the non-technological readings.
 
 If you have any thoughts or want to collaborate, feel free to drop me an email (junning.huang@ias.tu-darmstadt.de). 
+
+More on me: [[About Me|😼About Me]]
