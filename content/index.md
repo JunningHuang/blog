@@ -15,6 +15,7 @@ This is Junning's digital garden, welcome! I'm a PhD student who's working in ro
 
 - Satisfies certain performance or safety criteria, go beyond asymptotical stability;
 - Deal with nonlinear, hybrid, non-smooth dynamics;
+- Utilize the advantages of both causal and non-causal control perspective;
 
 with modern geometry, optimization and machine learning tools. The ultimate goal here is to automate daily processes in a robust and safely manner and performing intelligent decision making to assist humans.
 
