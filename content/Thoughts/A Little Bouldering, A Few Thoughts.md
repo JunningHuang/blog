@@ -13,7 +13,7 @@ author:
 >*To my dearest friends, A & V, my best bouldering accompanies!* 
 
 ## Thoughts
-Before I moved to Germany, I never tried bouldering or any mountain-related sports because it's not very popular in China and I always thought it's a bit dangerous. But Germans love all kinds of mountainous sports 🧗, maybe because living in such a rigid society really tiring them off and being part of the nature can set them free, who knows.
+Before I moved to Germany, I never tried bouldering or any adventurous mountain sport because it's not very popular in my hometown and I always thought it's a bit dangerous. But Germans love all kinds of mountainous sports 🧗, maybe because living in such a rigid society really tiring them off and being part of the nature can set them free, who knows.
 
 Anyway, my bouldering journey is not smooth at the beginning, it took me a while to get used to the movements (lining to the wall), the footworks, the height of the rocks and the most important thing, how to overcome your fear and do proper risk assessment in some particular situations. I am still not good at it but learn a lot from bouldering. 
 

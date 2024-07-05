@@ -3,7 +3,7 @@
 </p>
 
 >
->A control theorist's first instinct in the face of a new problem is to find a way to use the tools he knows, rather that a commitment to understand the underlying phenomenon. This is not the failure of individuals but the failure of our profession to foster the development of experimental control science. In a way, we have become the prisoners of our rich inheritance and past successes.                                                                                                                                   
+>*A control theorist's first instinct in the face of a new problem is to find a way to use the tools he knows, rather that a commitment to understand the underlying phenomenon. This is not the failure of individuals but the failure of our profession to foster the development of experimental control science. In a way, we have become the prisoners of our rich inheritance and past successes.*                                                                                                                                   
 >
 ><cite>Yuchi Ho</cite>
 
