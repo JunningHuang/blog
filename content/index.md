@@ -11,7 +11,7 @@ title: Junning's Digital Garden
 >
 ><cite>Richard Feynman</cite>
 
-This is Junning's digital garden, welcome! I'm a PhD student who's working in robot control, state estimation and system identification in [IAS](https://www.ias.informatik.tu-darmstadt.de/), TU Darmstadt. I build this digital garden to record some thoughts in my life and study.
+This is Junning's digital garden, welcome! I'm a PhD student who's working in robot control, state estimation and system identification in [IAS](https://www.ias.informatik.tu-darmstadt.de/), TU Darmstadt. I build this digital garden to record some notes and thoughts in my life and study.
 
 Here are some paths you might follow to get to know more about me, my research and interests:
 - [[State Estimation/index|🌱 State Estimation]]: State Estimation related content.
