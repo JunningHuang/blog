@@ -11,13 +11,7 @@ title: Junning's Digital Garden
 >
 ><cite>Richard Feynman</cite>
 
-This is Junning's digital garden, welcome! I'm a PhD student who's working in robot control, state estimation and system identification in [IAS](https://www.ias.informatik.tu-darmstadt.de/), TU Darmstadt. My current research interest is to go beyond the classic conservative model-based control theoretic approaches, build up state estimators and controllers that 
-
-- Satisfies certain performance or safety criteria, go beyond asymptotical stability;
-- Deal with nonlinear, hybrid, non-smooth dynamics;
-- Utilize the advantages of both causal and non-causal control perspective;
-
-with modern geometry, optimization and machine learning tools. The ultimate goal here is to automate daily processes in a robust and safely manner and performing intelligent decision making to assist humans.
+This is Junning's digital garden, welcome! I'm a PhD student who's working in robot control, state estimation and system identification in [IAS](https://www.ias.informatik.tu-darmstadt.de/), TU Darmstadt. I build this digital garden to record some thoughts in my life and study.
 
 Here are some paths you might follow to get to know more about me, my research and interests:
 - [[State Estimation/index|🌱 State Estimation]]: State Estimation related content.
