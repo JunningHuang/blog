@@ -6,8 +6,10 @@ title: Junning's Digital Garden
   <img src="./Images/ninja_cool.png" height="400"/>
 </p>
 
+
+>*The first principle is that you must not fool yourself and you are the easiest person to fool.* 
 >
->*The first principle is that you must not fool yourself and you are the easiest person to fool.* — Richard Feynman
+><cite>Richard Feynman</cite>
 
 This is Junning's digital garden, welcome! I'm a PhD student who's working in robot control, state estimation and system identification in [IAS](https://www.ias.informatik.tu-darmstadt.de/), TU Darmstadt. My current research interest is to go beyond the classic conservative model-based control theoretic approaches, build up state estimators and controllers that 
 
