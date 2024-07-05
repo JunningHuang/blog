@@ -30,7 +30,7 @@ $$
 
 ## Detectability, Observability and Normal Forms
 
-Distinguishability
+Distinguishability, WIP
 
 
 
