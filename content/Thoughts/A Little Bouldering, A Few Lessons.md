@@ -3,6 +3,7 @@ title: A Little Bouldering, A Few Lessons
 draft: false
 tags:
   - Bouldering
+  - Sport
 author:
 ---
 <p align="center">
