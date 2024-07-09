@@ -44,6 +44,7 @@ $$
 where $\mu_y=A\mu_x$ and $\Sigma_y=A\Sigma_xA^T$. It's easy to know that if we shift $y$ to $y=ax+b$, then only the mean value would change but not the covariance, namely the result would be $\mu_y=A\mu_x+b$. 
 
 **Remark**
+
 We derive the result but what does the result tell us? First of all, Gaussian distribution comes from the study of the error of least square approach, mean is the prediction and covariance describe the property of the errors. 
 
 Let's consider only the case $a>0$ or $A$ has only positive eigen values. Let's say I want to measure the thickness of a book, and with the tape the thickness of one book follows the Gaussian distribution. And we want to know about the thickness of 10 books, we can think that our prediction is 10 * the thickness of one book, but the accumulated error would be 10 times bigger. Since covariance is somehow like the square of the error, so it's 100 times bigger. But if we want to estimate half-of a book, the prediction would 0.5 * the thickness of one book, and the error would cut half.
