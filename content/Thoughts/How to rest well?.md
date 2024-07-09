@@ -1,5 +1,5 @@
 ---
-title: How to relax well?
+title: How to rest well?
 draft: false
 tags:
   - Life
