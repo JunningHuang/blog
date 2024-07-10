@@ -8,7 +8,7 @@ tags:
 ---
 > This note is based on Pauline Bernard's survey paper [observer Design for continuous-Time dynamical systems](https://minesparis-psl.hal.science/hal-03337138/document). I highly recommend everyone who is working in the field of observer design, state estimation to read this extremely beautiful paper. She is one of the leading figures in the field of observer design and my favorite researcher in observer design.
 ## Overview
-Observer design 
+There's no systematic way of designing observers for nonlinear systems. But some form of nonlinear systems can be transform to a known normal form, in which an observer exists and the injectivity of the transform guarantee that we could transform it back to the original coordinate. This paper outline several normal forms of nonlinear systems based on the fundamental concepts of observability/detectability. 
 
 ## Problem Statement
 There are three ways to define a real-time state estimation problem, given a dynamical system:
