@@ -1,7 +1,8 @@
 ---
 title: Schur Complement
 draft: false
-tags: 
+tags:
+  - Algebra
 author:
 ---
 ## Overview
