@@ -89,7 +89,7 @@ $$
 Then
 - If $M \succ 0$ and $A$ is invertible, then $M / A\succ 0$ and $A\succ 0$.  
 
-One can check the paper [LMI for physically consistent SysID]([Linear matrix inequalities for physically consistent inertial parameter identification: A statistical perspective on the mass distribution](https://ieeexplore.ieee.org/abstract/document/7987066/)), the authors use the Schur complement to construct a conic programming problem.
+One can check the paper [LMI for Physically Consistent Parameter Identification](https://ieeexplore.ieee.org/abstract/document/7987066/), the authors use the Schur complement to construct a conic programming problem.
 
 ## Reference
 - [Schur Complement Wiki](https://en.wikipedia.org/wiki/Schur_complement#cite_note-von_Mises_1964-8)
