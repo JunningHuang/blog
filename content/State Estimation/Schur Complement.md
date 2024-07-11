@@ -5,7 +5,7 @@ tags:
 author:
 ---
 ## Overview
-In this note I would review the idea of Schur complement and its application in calculating the matrix inverse lemma and some properties of it.
+In this note I would review the idea of Schur complement and its application in calculating the matrix inverse lemma and some properties.
 
 ## Schur Complement
 Schur complement naturally comes out when we do Gaussian elimination for an invertible square matrix $M=\begin{bmatrix}A&B\\ C&D\end{bmatrix}$, where $A,B,C,D$ are $p\times p$, $p\times q$, $q\times p$, $q\times q$. First we do column multiplication, which is the left multiplication to get the upper triangular form. 
