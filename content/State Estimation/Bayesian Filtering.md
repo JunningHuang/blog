@@ -28,8 +28,8 @@ $$
 where $Z$ is the partition function which satisfies $Z=\int p(y_k|x_k^-)p(x_k^-|y_{1:k-1})dx_k^-$. 
 
 Consider a more probabilistic perspective for Bayesian filtering
-- The prediction step is computing the marginal distribution as a prediction for current state, using the prior estimation $p(x_{k-1}|y_{1:k-1})$ and likelihood, which is the probabilistic dynamics model $p(x_k^-|x_{k-1},y_{1:k-1})$. 
-- The update step is to compute the posterior distribution $p(x_k|y_{1:k})$ as an estimation of the current state using the current measurement, using the predictive distribution $p(x_k^-|y_{1:k-1})$ as prior and the measurement model $p(x_k|y_{1:k})$ as the likelihood function.
+- The prediction step would compute the marginal distribution as a prediction for current state, using the prior estimation $p(x_{k-1}|y_{1:k-1})$ and likelihood, which is the probabilistic dynamics model $p(x_k^-|x_{k-1},y_{1:k-1})$. 
+- The update step would compute the posterior distribution $p(x_k|y_{1:k})$ as an estimation of the current state using the current measurement, using the predictive distribution $p(x_k^-|y_{1:k-1})$ as prior and the measurement model $p(x_k|y_{1:k})$ as the likelihood function.
 
 **Remark**
 Back from the conditioning of probability, in this case
