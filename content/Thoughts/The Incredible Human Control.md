@@ -10,7 +10,7 @@ author:
   <img src="./Images/robot_walk.jpg" height="500"/>
 </p>
 
-There has long ago that I've been thinking what is the best way to have good motor skills and adaptation like human beings. Today I have some thoughts on this problem because an example given by a colleague.
+There has long ago that I've been thinking how to have good motor skills and adaptation like human beings. Today I have some thoughts on this problem because an example given by a colleague.
 
 The colleague observed in the Klettersteig last year another colleague can quickly adapt to a new gait with his sloppy hiking boots. The bottom of his hiking boots fell apart so that he can not walk like normally, so basically he needs to slide a bit to stop its falling. This adaptation process happens so fast that there's no algorithm and no robots can do it.
 
