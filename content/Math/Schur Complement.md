@@ -57,7 +57,7 @@ $$
 $$
 The above formula is called matrix inversion lemma, it has a lot of application in calculating the conditional and marginal distribution of the Gaussian distribution.
 
-Another application of the Schur complement lemma is in matrix inequality, it's an useful tool to construct a linear matrix inequality for conic programming. The properties is consider the case when $M$ is a symmetric and real matrix, given by
+Another application of the Schur complement lemma is in matrix inequality, it's an useful tool to construct a linear matrix inequality for conic programming. Consider the case when $M$ is a symmetric and real matrix, given by
 $$
 \begin{aligned}
 M=\begin{bmatrix}A &B \\B^T & C\end{bmatrix}
