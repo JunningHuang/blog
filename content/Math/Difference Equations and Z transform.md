@@ -5,11 +5,12 @@ tags:
   - DifferenceEquation
   - ZTransform
 ---
+## Difference Equation and Z Transform
 Let's recall a bit some basic foundations of differential equations and Laplace transform, the simplest linear ODE:
 $$
-\begin{aligned}
+\begin{align}
 \dot{x}=ax+bu
-\end{aligned}
+\end{align}
 $$
 Laplace transform is invented to solve such a DE, take the Laplace transform, we have
 $$
@@ -50,4 +51,24 @@ x[n]=\gamma x[n-1]+(1-\gamma) u[n]
 \end{aligned}
 $$
 
+## Integral by parts
+Integral by parts not only works for continuous functions, there's a analog for discrete functions. Let's recall integral by parts for indefinite integral first,
+$$
+\begin{aligned}
+\int u \, dv = uv - \int  v\, du  
+\end{aligned}
+$$
+for definite integral,,
+$$
+\begin{aligned}
+\int_{a}^b  u\, dv = uv|_{a}^b - \int_{a}^b v\, du 
+\end{aligned}
+$$
+The analog for discrete function would be 
+$$
+\begin{aligned}
+\sum_{0}^{N} f[n](g[n+1]-g[n]) = f[N+1]g[N+1]-f[0]g[0]-\sum_{0}^N g[n+1](f[n+1]-f[n])
+\end{aligned}
+$$
 
+Life is short, let's skip the proof.
