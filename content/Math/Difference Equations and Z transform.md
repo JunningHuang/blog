@@ -8,10 +8,11 @@ tags:
 ## Difference Equation and Z Transform
 Let's recall a bit some basic foundations of differential equations and Laplace transform, the simplest linear ODE:
 $$
-\begin{align}
+\begin{aligned}
 \dot{x}=ax+bu
-\end{align}
+\end{aligned}
 $$
+
 Laplace transform is invented to solve such a DE, take the Laplace transform, we have
 $$
 \begin{aligned}
