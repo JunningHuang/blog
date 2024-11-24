@@ -72,3 +72,7 @@ $$
 \end{aligned}
 $$
 It's easy to see that as long as $a_{j}\neq \beta_{i}$, namely $A$ and $B$ shares no common eigen-values, there's always a solution of $t_{i,j}$.
+
+## Reference
+- [Observing the State of a Linear System](https://ieeexplore.ieee.org/document/4323124)
+- [Constrained Matrix Sylvester Equations](https://www.cs.umd.edu/users/oleary/reprints/j34.pdf)
