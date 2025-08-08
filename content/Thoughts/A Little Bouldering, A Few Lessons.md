@@ -11,7 +11,7 @@ author:
 </p>
 
 
->*To my dearest friends, Anastasia & Theo V, my best bouldering accompanies!* 
+>*To my dearest friends, Anastasia & Théo V, my best bouldering accompanies!* 
 
 ## Thoughts
 Before I moved to Germany, I never tried bouldering or any adventurous mountain sport because it's not very popular in my hometown and I always thought it's a bit dangerous. But Germans love all kinds of mountainous sports 🧗, maybe because living in such a rigid society really tiring them off and being part of the nature can set them free, who knows.
